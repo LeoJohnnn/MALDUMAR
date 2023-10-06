@@ -49,11 +49,10 @@
     background-image: linear-gradient(#131213a3, #131213a3), url('../img/column1.jpg'); 
     background-size: cover; /* Adjust background size as needed */
     background-repeat: no-repeat;
-    padding: 110px
+    padding: 150px
   }
 
   .column2 {
-    margin-top: -30px;
     background-image: linear-gradient(#131213a3, #131213a3), url('../img/column2.jpg'); 
     background-size: cover;
     background-repeat: no-repeat;
@@ -83,7 +82,6 @@
 }
 
 #backToTopBtn.show {
-
     display: block;
 }
 
